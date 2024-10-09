@@ -1,6 +1,15 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Muhammed Samed Özmen</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msamedozmen&label=Profile%20views&color=0e75b6&style=flat" alt="msamedozmen" /> </p>
+
+- 🌱 I’m currently learning **C/C++**
+
+- 💬 Ask me about **Python, Machine learning applicatons,Backend application**
+
+- 📫 How to reach me **msamedozmen@gmail.com**
+
+- ⚡ Fun fact **I'm chilling while writing code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
